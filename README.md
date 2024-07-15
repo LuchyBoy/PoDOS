@@ -6,4 +6,5 @@ Currently, we provide a version that runs on Junpyter Notebook. (2024.07.15)
 Please download the data used for training and the trained model through the following link:
 
 https://figshare.com/articles/dataset/model/26303089
+
 https://figshare.com/articles/dataset/data/26303278
